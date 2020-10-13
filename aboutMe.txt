@@ -1,1 +1,6 @@
 Hello, my name is Horatio and I am a senior Computer Engineering student at Santa Clara University
+I am taking the following courses:
+	COEN 174/L
+	COEN 150/L
+	COEN 140/L
+	COEN 194
